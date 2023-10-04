@@ -1,7 +1,7 @@
 # SpringFrameworkSpringBoot-Angular
 Desarrollo frontend con Angular y backend Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT, Socket.
 
-Repositorio creado para almacenar los ejercicios realizados para el curso Angular & Spring Boot: Creando web app full stack de Udemy.
+Repositorio creado para almacenar los ejercicios realizados para el curso de [Udemy](https://www.udemy.com/course/angular-spring/) Angular & Spring Boot: Creando web app full stack de Udemy.
 
 Instructor: Andrés Guzmán
 
